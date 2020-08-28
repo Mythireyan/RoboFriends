@@ -1,0 +1,6 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+background: linear-gradient(90deg, rgba(96,88,226,1) 0%, rgba(104,47,156,1) 0%, rgba(170,26,149,0.958420868347339) 38%, rgba(208,76,212,0.908000700280112) 98%);
+}
